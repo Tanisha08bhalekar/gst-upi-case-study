@@ -8,7 +8,7 @@ As someone interested in business analysis, I wanted to understand:
 -Were these users GST registered or not?
 -What were users saying online?
 
-*What I Did?
+*What I Did? 
 -I checked UPI transactions city by city to see where the drop happened.
 -Looked at GST data to find out which users got affected.
 -Read real user comments to see what people were saying online.
