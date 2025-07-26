@@ -1,45 +1,81 @@
-📌 Case Study: UPI Payments Drop During GST Panic (July 2025)
-*What Happened? In July 2025, small business owners and shopkeepers started receiving GST related notices. This created panic and people started talking about it online. Right around the same time, UPI payments suddenly dropped.
+# 📊 Case Study: UPI Payments Dropped During GST Panic (July 2025)
 
-As someone interested in business analysis, I wanted to understand:
+## 🔍 What Happened?
 
--Did UPI usage actually fall in areas where GST notices went out? 
--Were these users GST registered or not? 
--What were users saying online?
+In July 2025, small business owners and shopkeepers started getting GST-related notices. This caused panic, especially online.
 
-*What I Did? 
--I checked UPI transactions city by city to see where the drop happened. 
--Looked at GST data to find out which users got affected. 
--Read real user comments to see what people were saying online. 
--Then used Power BI to put it all together in one clear dashboard.
+At the same time, UPI payments suddenly dropped.
 
-*What I Found? 
--I checked UPI transactions city by city to see where the drop happened. 
--Looked at GST data to find out which users got affected. 
--Read real user comments to see what people were saying online. 
--Then used Power BI to put it all together in one clear dashboard.
+As an analyst i wanted to understand:
 
-*What Could've Helped? 
--A simple in-app message or alert explaining the notice. 
--A small help guide or FAQ section. 
--A visible support contact could’ve reduced panic.
+- Did UPI usage really fall in the cities where notices went out?
+- Were those users GST-registered?
+- What were users saying online?
 
-*When people get confused or scared, they stop using the app. That means: 
--Less money comes in -More people call for help 
--And users stop trusting the app 
--All this is bad for the business.
+---
 
-*My Take :
-"If I was a business analyst there, I’d want to catch this early and help the team fix it before it confused more users."
+## 🛠️ What I Did
 
-“This wasn’t just a dashboard project I wanted to solve a real problem. The kind of work business analysts actually do.”
+- Pulled city-wise UPI transaction data  
+- Collected GST info to see which user types were affected  
+- Read real user comments from online forums  
+- Used Power BI to bring all the data into one clear dashboard
 
-*Tools Used :
--Power BI 
--Python (for data cleaning) 
--Excel
+---
 
-📎 View Dashboard (https://drive.google.com/file/d/14kpvPmbYzFQypAvUOCbWmZVCtEGpDAjN/view?usp=sharing)
+## 💡 What I Found
 
-🙌 Thanks for Reading! Feel free to share your thoughts or feedback. If you’ve worked on something similar, I’d love to hear your take.
+- Cities with many notices showed big UPI payment drops  
+- Many affected users were not even GST-registered just confused  
+- People were asking for help, but didn’t get clear answers  
+
+---
+
+## ✅ What Could've Helped
+
+- A simple in-app message or alert about the notice  
+- A short help guide or FAQ  
+- Easy access to support to avoid panic
+
+---
+
+## 📉 Why This Matters
+
+When users panic:
+
+- They stop using the app  
+- Revenue drops  
+- Support gets overloaded  
+- User trust falls  
+
+That’s bad for the business.
+
+---
+
+## 💬 My Take
+
+If I were a business analyst at the company, I’d want to catch this early and help the product, marketing, and support teams fix it before things got worse.
+
+This wasn’t just about making a dashboard — but solving a real business problem. The kind analysts and product teams deal with every day.
+
+---
+
+## 🧰 Tools Used
+
+- Power BI  
+- Python (for cleaning data)  
+- Excel  
+
+---
+
+## 📎 View Dashboard
+
+👉 [Click here to open the Power BI dashboard](https://drive.google.com/file/d/14kpvPmbYzFQypAvUOCbWmZVCtEGpDAjN/view?usp=sharing)
+
+---
+
+## 🙌 Thanks for Reading!
+
+If you’ve worked on something similar or have thoughts, feel free to share!
+
 
